@@ -29,8 +29,8 @@ Para poder utilizar este script, necesitas tener instalado lo siguiente:
 
 ## Cómo usar
 
-1. Clona este repositorio o descarga el archivo `youtube-downloader.js` en tu máquina.
+1. Clona este repositorio o descarga el archivo `index.js` en tu máquina.
 2. Abre una terminal y navega hasta el directorio donde guardaste el archivo.
 3. Ejecuta el script usando el siguiente comando:
    ```bash
-   node youtube-downloader.js
+   node index.js
